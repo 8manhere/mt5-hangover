@@ -25,3 +25,13 @@ Script akan otomatis:
 - Install MetaTrader 5
 - Membuat shortcut MetaTrader 5
 - Membuat shortcut MetaEditor 5
+
+## 🖥️ Create MetaTrader 5 Shortcut
+
+Jika MetaTrader 5 sudah terinstall tetapi shortcut Desktop belum ada:
+
+```bash
+wget https://raw.githubusercontent.com/8manhere/mt5-hangover/main/create-mt5-shortcut.sh && chmod +x create-mt5-shortcut.sh && ./create-mt5-shortcut.sh
+```
+
+Setelah selesai, shortcut **MetaTrader 5** akan muncul di Desktop.
